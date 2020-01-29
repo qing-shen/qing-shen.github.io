@@ -68,8 +68,8 @@ layout: default
     <div class="col-lg-12 col-md-12 col-sm-9 col-xs-12">
         <!-- Profile info -->
         <div id="profile_info">
-            <h1 id="name" class="transition-02">{{ site.yourname }}</h1>
-            <h4 class="line">{{ site.title }}</h4>
+            <h1 id="name" class="transition-02"> <font color="white">  {{ site.yourname }}  </font> </h1>
+            <h4 class="line"> <font color="white"> {{ site.title }} </font>  </h4>
             <h6><span class="fa fa-map-marker"></span> {{ site.location }}</h6>
         </div>
         <!-- End Profile info -->
@@ -77,9 +77,10 @@ layout: default
 
         <!-- Profile Description -->
         <div id="profile_desc">
-            <p>
-            	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac risus nibh. Donec adipiscing luctus tur
-            </p>
+
+            <p> <font color="white">副教授，博导<br />
+                 北京理工大学<br />
+                 信息与电子学院</font> </p>
 
         </div>
         <!-- End Profile Description -->
@@ -90,17 +91,17 @@ layout: default
             <h6>My Social Profiles</h6>
 			
             <a href="{{site.google}}"><i class="fa fa-google"></i></a>
-            <a href="{{site.twitter}}"><i class="fa fa-twitter"></i></a>
+            <a href="{{site.twitter}}"><i class="fa fa-google-plus"></i></a>
             <a href="{{site.linkedin}}"><i class="fa fa-linkedin"></i></a>
             <a href="{{site.dribbble}}"><i class="fa fa fa-dribbble"></i></a>
-            <a href="{{site.foursquare}}"><i class="fa fa-foursquare"></i></a>
+            <a href="{{site.foursquare}}"><i class="fa fa-google"></i></a>
             <div class="clear"></div>
         </div>
         <!-- End Name -->
 
         <div id="profile_desc">
             <p>
-                More Templates <a href="https://github.com/jekyller" target="_blank" title="jekyller" class="a-footer">Jekyller</a> and <a href="https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750" target="_blank" title="flexycodes" class="a-footer">Flexycodex</a>
+
             </p>
 
         </div>
