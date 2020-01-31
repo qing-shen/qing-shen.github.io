@@ -32,7 +32,7 @@ jQuery(document).ready(function($) {
 
     $('#verticalTab').easyResponsiveTabs({
         type: 'vertical',
-        width: '1',
+        width: '10',
         fit: true
     });
 
