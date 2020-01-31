@@ -71,11 +71,11 @@ layout: default
             <h1 id="name" class="transition-02"> <font color="white">  {{ site.yourname }}  </font> </h1>
             <!--<h6 class="line"> <font color="white"> {{ site.title }} </font>  </h4>
             <h6>  <font color="white"> {{ site.location }} </font> </h6>-->
-            
+
             <p> <font color="white">Associate Professor<br />
                  School of Information and Electronics<br />
                  Beijing Institute of Technology</font> </p>
-                 
+
         </div>
         <!-- End Profile info -->
     	
@@ -89,7 +89,7 @@ layout: default
 
         </div>
         <!-- End Profile Description -->
-        
+
         <div id="profile_emails">
             <p> <font color="white"> Emails: <br /> </p>
             qing-shen@outlook.com <br />
@@ -102,7 +102,7 @@ layout: default
         <!-- Name -->
          <div id="profile_social">
             <!--<p>Google Scholar Profile:  </p>-->
-            <a href="{{site.google}}"><i class="fa fa-google-plus"></i></a> 
+            <a href="{{site.google}}"><i class="fa fa-google-plus"></i></a>
             <!--<a href="{{site.twitter}}"><i class="fa fa-google-plus"></i></a>
             <a href="{{site.linkedin}}"><i class="fa fa-linkedin"></i></a>
             <a href="{{site.dribbble}}"><i class="fa fa fa-dribbble"></i></a>
@@ -111,7 +111,7 @@ layout: default
         </div>
         <!-- End Name -->
 
-        
+
 
     </div>
     <!-- End profile information -->
@@ -128,7 +128,7 @@ layout: default
     <ul class="resp-tabs-list">
         <li class="tabs-profile hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a profile" data-tab-name="profile">			
             <span class="tite-list">profile</span>
-            <i class="fa fa-user icon_menu icon_menu_active"></i>
+            <!--<i class="fa fa-user icon_menu icon_menu_active"></i>-->
         </li>
 
         <li class="tabs-resume hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" data-tab-name="resume">
