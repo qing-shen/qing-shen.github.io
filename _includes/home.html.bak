@@ -3,88 +3,7 @@
     <!-- .title -->
 <h1 class="h-bloc">Profile - About Me</h1>
 
-<div class="row top-p">
-    <div class="col-md-6 profile-l">
- 		
-        <!--About me-->
-        <div class="title_content">
-            <div class="text_content">brown smith</div>
-            <div class="clear"></div>
-        </div>
-
-		   <ul class="about">
-
-            <li>
-                <i class="glyphicon glyphicon-user"></i>
-                <label>Name</label>
-                <span class="value">Qing Shen</span>
-                <div class="clear"></div>
-            </li>
-
-            <li>
-                <i class="glyphicon glyphicon-calendar"></i>
-                <label>Date of birth</label>
-                <span class="value">March 18, 1988</span>
-                <div class="clear"></div>
-            </li>
-
-            <li>
-                <i class="glyphicon glyphicon-map-marker"></i>
-                <label>Adress</label>
-                <span class="value">San Francisco , CA</span>
-                <div class="clear"></div>
-            </li>
-
-            <li>
-                <i class="glyphicon glyphicon-envelope"></i>
-                <label>Email</label>
-                <span class="value">brown.smith@gmail.com</span>
-                <div class="clear"></div>
-            </li>
-
-            <li>
-                <i class="glyphicon glyphicon-phone"></i>
-                <label>Phone</label>
-                <span class="value">+123 (21) 1234-5678</span>
-                <div class="clear"></div>
-            </li>
-
-            <li>
-                <i class="glyphicon glyphicon-globe"></i>
-                <label>Website</label>
-                <span class="value"><a href="#" target="_blank">sc.chinaz.com</a></span>
-                <div class="clear"></div>
-            </li>
-
-        </ul>
-
-
-        <p style="margin-bottom:20px">
-            <i class="fa fa-quote-left"></i>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec nulla sagittis, scelerisque mi vitae, congue turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec nulla sagittis, scelerisque mi vitae, congue turpis.
-        </p>
-
-         <p style="margin-bottom:20px">
-            <i class="fa fa-quote-left"></i>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec nulla sagittis, scelerisque mi vitae, congue turpis.
-
-        </p>
-
-    </div>
-    <!-- End left-wrap -->
-
-    <div class="col-md-6 profile-r">
-
-        <div class="cycle-slideshow">
-            <img src="images/img-profile/about_1.jpg" alt="" />
-            <img src="images/img-profile/about_2.png" alt="" />
-            <img src="images/img-profile/about_3.png" alt="" />
-        </div>
-
-    </div>
-
-</div>
-
+<p>I am always looking for self-motivated Ph.D and Master students who are interested in my research areas. Please drop me an email with your CV ( q.shen@bit.edu.cn ). </p>
 
 <!-- begin service -->
 <div class="clear"></div>
@@ -94,35 +13,39 @@
             <div class="text_content">My Services 1</div>
             <div class="clear"></div>
         </div>
+        
 
 
-        <div class="col-md-4 pack-service">
-            <div class="service">
-                <div class="service-icon"><i class="fa fa-tag"></i></div>
-                <div class="service-detail">
-                    <h6>Making Money</h6>
-                    <p>Fusce quis interdum ipsum.Suspendi suscipit vehicula sapienid mattis. Lorem ipsum amet consectetur.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 pack-service">
-            <div class="service">
-                <div class="service-icon"><i class="fa fa-cogs"></i></div>
-                <div class="service-detail">
-                    <h6>Easy to Customize</h6>
-                    <p>Fusce quis interdum ipsum.Suspendi suscipit vehicula sapienid mattis. Lorem ipsum amet consectetur.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 pack-service">
-            <div class="service">
-                <div class="service-icon"><i class="fa fa-arrows-alt"></i></div>
-                <div class="service-detail">
-                    <h6>Moving Let Us Help</h6>
-                    <p>Fusce quis interdum ipsum.Suspendi suscipit vehicula sapienid mattis. Lorem ipsum amet consectetur.</p>
-                </div>
-            </div>
-        </div>
+<ul>
+<li><strong>Jan. 2020:</strong> I received the Second-Class Prize of the National Award for Technological Invention, China. <br>
+    2020年1月，获国家技术发明二等奖。
+</li>
+
+<li><strong>Dec. 2018:</strong> I received the First-Class Prize of the Science and Technology (Technological Invention) Award from the Chinese Institute of Electronics.<br>
+    2018年12月，获中国电子学会科学技术奖（技术发明类）一等奖。 
+</li>
+    
+<li><strong>Dec. 2016:</strong> I received the Excellent Ph.D.  Thesis Award from Chinese Institute of Electronics, China. (The most important award for all Ph.D. students in China)<br>
+    2016年12月，获中国电子学会优秀博士学位论文奖。
+</li>
+        
+<li><strong>Jun. 2016:</strong>  I received the Excellent Ph.D.  Thesis Award from Beijing Institute of Technology, China.<br>
+    2016年6 月，获北京理工大学优秀博士学位论文奖。
+</li>
+</ul>
+
+
+
+<h2 class="has-black-color has-text-color">Short Bio</h2>
+
+
+
+<p>I am currently an Associate Professor with School of Information and Electronics, Beijing Institute of Technology, China. I received the B.S. degree <span lang="EN-US">(with the highest honor)</span> in 2009 and Ph.D. degree <span lang="EN-US">(with the highest honor) </span> in 2016, both from Beijing Institute of Technology, Beijing, China. Then I worked as a Post-Doc, and later become an Associate Professor in Beijing Institute of Technology. From 2013 to 2015 and from 2018 to 2019, I was a visiting researcher with the Department of Electronic and Electrical Engineering, University of Sheffield, Sheffield, UK.</p>
+
+<p>I was the recipient of two Excellent Ph.D. Thesis Awards from both the Chinese Institute of Electronics and the Beijing Institute of Technology in 2016. I was also the recipient of Second-Class Prize of the National Award for Technological Invention in 2020, the First-Class Prize of the Science and Technology (Technological Invention) Award from Chinese Institute of Electronics in 2018, and the Second-Class Prize of the Ministerial Level Science and Technology Progress Award in 2014.</p>
+
+<p>I have more than 10 years of professional experience in system and algorithm design, implementation (through FPGA and DSP), and debugging. I have received three Science and Technology Progress Awards and hold more than 20 patents.</p>
+
      </div>
 </div><!-- End Services -->
 
