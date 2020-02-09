@@ -1,0 +1,105 @@
+<!-- profile -->
+<div id="profile" class="content_2">
+    <!-- .title -->
+<h1 class="h-bloc">Awards</h1>
+
+
+<!-- begin service -->
+<div class="clear"></div>
+<div class="row" id="services">
+	<div class="col-md-12" style="font-size:14px">   <!-- style="font-size:20px" can be used -->
+        <div class="title_content">
+            <div class="text_content">Journal Papers</div>
+            <div class="clear"></div>
+        </div>
+
+<ol>
+<li> Wei Cui, Shuang Wu, <strong>Qing Shen</strong>, Jing Tian, Siliang Wu, Xiang-Gen Xia, “Parameter estimation method for radar maneuvering target with arbitrary migrations,” <em>IEEE Transactions on Aerospace and Electronic Systems</em>, vol. 55, no. 5, pp. 2195-2213, Oct. 2019. </li>
+
+<li>Wei Cui, <strong>Qing Shen</strong>, Wei Liu, Siliang Wu, “Low Complexity DOA estimation for wideband off-grid sources based on re-focused compressive sensing with dynamic dictionary”, <em>IEEE Journal of Selected Topics in Signal Processing</em>, vol. 13, no. 5, pp. 918-930, Sep. 2019. </li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, Piya Pal, “Simplified and enhanced multiple level nested arrays exploiting high order difference co-arrays,” <em>IEEE Transactions on Signal Processing</em>, vol. 67, no. 13, pp. 3502-3515, Jul. 2019. </li>
+    
+<li>Ahsan Raza, Wei Liu, <strong>Qing Shen</strong>, “Thinned coprime array for second-order difference co-array generation with reduced mutual couplings,” <em>IEEE Transactions on Signal Processing</em>, vol. 67, no. 8, pp. 2052-2065, Apr. 2019.</li>
+    
+<li>Junwei Zhou, <strong>Qing Shen</strong>, Wei Cui, “A novel carrier leakage cancellation algorithm for multiple target detection,” <em>Chinese Journal of Electronics</em>, vol. 28, no. 1, pp. 100–106, Jan. 2019.</li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Li Wang, Yin Liu, “Adaptive beamforming for target detection and surveillance based on distributed unmanned aerial vehicle platforms,” <em>IEEE Access</em>, vol. 6, pp. 60812-60823, 2018.</li>
+    
+<li>Tong Qian, Wei Cui, <strong>Qing Shen</strong>, “Sparse reconstruction method for DOA estimation based on dynamic dictionary and negative exponent penalty,” <em>Chinese Journal of Electronics</em>, vol. 27, no. 2, pp. 386-392, Mar. 2018.</li>
+    
+<li>Jinzhi Xiang, Wei Cui, <strong>Qing Shen</strong>, “Flexible and accurate frequency estimation for complex sinusoid signal by interpolation using DFT samples,” <em>Chinese Journal of Electronics</em>, vol. 27, no. 1, pp. 109-114, Jan. 2018.</li>
+    
+<li>Shuang Wu, Wei Cui, <strong>Qing Shen</strong>, Jiangang Hou, Siliang Wu, “Efficient parameter estimation method for maneuvering targets in discrete randomly-modulated radar,” <em>Digital Signal Processing</em>, vol. 67, pp.91-106, Aug. 2017.</li>
+    
+<li>Jingjing Cai, Wei Liu, Ru Zong, <strong>Qing Shen</strong>, “An expanding and shift scheme for constructing fourth-order difference co-arrays,” <em>IEEE Signal Processing Letters</em>, vol. 24, no. 4, pp. 480-484, Apr. 2017.</li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, Yimin D. Zhang, Moeness G. Amin, “Focused compressive sensing for underdetermined wideband DOA estimation exploiting high-order difference co-arrays,” <em>IEEE Signal Processing Letters</em>, vol. 24, no. 1, pp. 86-90, Jan. 2017.</li>
+    
+<li><strong>Qing Shen</strong>, Wei Cui, Wei Liu, Siliang Wu, Yimin D. Zhang, Moeness G. Amin, “Underdetermined wideband DOA estimation of off-grid sources employing the difference co-array concept,” <em>Signal Processing</em>, vol. 130, pp. 299-304, Jan. 2017.</li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, “Underdetermined DOA estimation under the compressive sensing framework: A review,” <em>IEEE Access</em>, 2016, 4: 8865-8878.</li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, “Extension of co-prime arrays based on the fourth-order difference co-array concept,” <em>IEEE Signal Processing Letters</em>, vol. 23, no. 5, pp. 615-619, May 2016.</li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, Yimin D. Zhang, Moeness G. Amin, “Low complexity direction-of-arrival estimation based on wideband co-prime arrays,” <em>IEEE/ACM Transactions on Audio, and Speech, Language Processing</em>, vol. 23, no. 9, pp. 1445–1456, Sep. 2015.</li>
+    
+<li>Jing Tian, Wei Cui, <strong>Qing Shen</strong>, Zixiang Wei, Siliang Wu, “High-speed maneuvering target detection approach based on joint RFT and keystone transform,” <em>Science China Information Sciences</em>, vol. 56, no. 6, pp. 1-13, 2013.</li>
+    
+<li>Wei Cui, Xinguo Zhu, <strong>Qing Shen</strong>, “A new parameter design method for 3rd-order range tracking loop,” <em>Acta Armamentar II</em>, vol. 31, no. 6, pp. 807-810, 2010. </li>
+    
+</ol>
+
+
+
+     </div>
+</div><!-- End Services -->
+
+
+<!-- service 2 -->
+<div class="clear"></div>
+<!--<div class="border-list"></div>-->
+
+<div class="row">
+<div class="col-md-12" style="font-size:14px">
+   <!-- <div class="bottom-p">-->
+        <div class="title_content">
+            <div class="text_content">Conference Papers</div>
+            <div class="clear"></div>
+        </div>
+
+<ol>
+<li>Yechen Li, Jie Yao, <strong>Qing Shen</strong>, Wei Cui, “Dual-channel monopulse angle estimation method for weak target based on reference signal,” in <em>Proc. IEEE International Conference on Signal, Information and Data Processing (ICSIDP)</em>, Chongqing, China, Dec. 2019.</li>
+    
+<li>Yibao Liang, <strong>Qing Shen</strong>, Wei Cui, Wei Liu, “Cramer-Rao Bound for Wideband DOA Estimation with Uncorrelated Sources,” in <em>Proc. IEEE Global Conference on Signal and Information Processing (GlobalSIP)</em>, Ottawa, Canada, Nov. 2019.</li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Li Wang, Yin Liu, “Group sparsity based target localization for distributed sensor array networks,” in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, Brighton, UK, May 2019.</li>
+    
+<li>Ahsan Raza, Wei Liu, <strong>Qing Shen</strong>, “Displaced Thinned coprime arrays with an additional sensor for DOA estimation,” in <em>Proc. IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)</em>, Louisville, Kentucky, USA, Dec. 2018, pp. 95-100. </li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Li Wang, Yin Liu, “Joint Adaptive Beamforming Based on Distributed Moving Platforms”, in <em>Proc. IEEE International Conference on Digital Signal Processing (DSP)</em>, Shanghai, China, Nov. 2018. </li>
+    
+<li>Ahsan Raza, Wei Liu, <strong>Qing Shen</strong>, “Thinned Coprime Arrays for DOA Estimation”, in<em> Proc. European Signal Processing Conference (EUSIPCO)</em>, Kos Island, Greece, Aug. 2017, pp. 415–419. (Oral Presentation)</li>
+    
+<li>Jinzhi Xiang, <strong>Qing Shen</strong>, Wei Cui, “A novel single tone frequency estimation by interpolation using DFT samples with zero-padding”, in <em>Proc. IEEE International Conference on Signal Processing</em>, Chengdu, China, Nov. 2016, pp. 277-281. </li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, “Extension of nested arrays with the fourth-order difference co-array enhancement,” in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, Shanghai, China, Mar. 2016, pp. 2991-2995.</li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, Yimin D. Zhang, Moeness G. Amin, “Wideband DOA estimation for uniform linear arrays based on the co-array concept,” in<em> Proc. European Signal Processing Conference (EUSIPCO)</em>, Nice, France, Sep. 2015, pp. 2885-2889. </li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, “Low-complexity compressive sensing based DOA estimation for co-prime arrays,” in <em>Proc. IEEE International Conference on Digital Signal Processing</em>, Hong Kong, China, Aug. 2014, pp. 754-758. </li>
+    
+<li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, Yimin D. Zhang, Moeness G. Amin, “Group sparsity based wideband DOA estimation for co-prime arrays,” in <em>Proc. IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP)</em>, Xi’an, China, Jul. 2014, pp. 252-256. </li>
+    
+<li><strong>Qing Shen</strong>, Wei Cui, Jiangang Hou, Siliang Wu, Hongbao Li, “Carrier leakage cancellation in pulse Doppler radar applied for single target detection,” in <em>Proc. IET International Radar Conference</em>, Xi’an, China, 2013, pp. 972-976.</li>
+    
+</ol>
+
+
+</div>
+</div>
+<!-- end service 2 -->
+
+<div class="clear"></div>
+</div>
+<!-- End .profile --> 

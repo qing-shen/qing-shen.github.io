@@ -1,0 +1,57 @@
+<!-- profile -->
+<div id="profile" class="content_2">
+    <!-- .title -->
+<h1 class="h-bloc">Awards</h1>
+
+
+<!-- begin service -->
+<div class="clear"></div>
+<div class="row" id="services">
+	<div class="col-md-12" style="font-size:14px">   <!-- style="font-size:20px" can be used -->
+        <div class="title_content">
+            <div class="text_content">Signal Processing Theories</div>
+            <div class="clear"></div>
+        </div>
+
+<ol>
+<li>Sensor Array Signal Processing,</li>
+<li>Digital Signal Processing,</li>
+<li>Detection and Estimation,</li>
+<li>Sparsity and Compressive Sensing,</li>
+<li>and their various applications such as acoustics, radar, sonar, and wireless communications.</li>
+</ol>
+
+
+     </div>
+</div><!-- End Services -->
+
+
+<!-- service 2 -->
+<div class="clear"></div>
+<!--<div class="border-list"></div>-->
+
+<div class="row">
+<div class="col-md-12" style="font-size:14px">
+   <!-- <div class="bottom-p">-->
+        <div class="title_content">
+            <div class="text_content">Implementation Skills</div>
+            <div class="clear"></div>
+        </div>
+
+<ol>
+<li>System design and algorithm design.</li>
+<li>Software development with MATLAB.</li>
+<li>Software development for Field Programmable Gate Array (FPGA).</li>
+<li>Software development for Microblaze and Digital Signal Processor (DSP).</li>
+<li>System and software debugging.</li>
+</ol>
+
+
+
+</div>
+</div>
+<!-- end service 2 -->
+
+<div class="clear"></div>
+</div>
+<!-- End .profile --> 
