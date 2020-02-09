@@ -1,7 +1,7 @@
 
 title: Homepage of Qing SHEN
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+url: 'http://qing-shen.github.io'
+baseurl: 'http://qing-shen.github.io' #change it according to your repository name
 
 
 
