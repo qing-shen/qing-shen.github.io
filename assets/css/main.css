@@ -53,7 +53,6 @@ ul, li, nav {
     list-style: none;
 }
 ol li{
-        font-size:20px;
         list-style-type:decimal;
 }
 body {
