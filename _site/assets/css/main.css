@@ -52,6 +52,9 @@ ul, li, nav {
     padding: 0;
     list-style: none;
 }
+ol li{
+        list-style-type:decimal;
+}
 body {
     margin: 0;
     font-family: 'Lato', sans-serif;
