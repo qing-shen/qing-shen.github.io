@@ -149,11 +149,11 @@ a:hover {
     text-align: center;
     position: relative;
     z-index: 2;
-    border-radius: 50%;
-    -o-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
+    border-radius: 0%;
+    -o-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
     line-height: 43px;
 }
 
