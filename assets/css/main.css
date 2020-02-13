@@ -281,6 +281,10 @@ h2.resp-tab-title:last-child {
     background: #fff;
     color: #3B5998;
 }
+.resp-tabs-list li:active {
+    background: #fff;
+    color: #3B5998;
+}
 .resp-arrow {
     width: 0;
     height: 0;
