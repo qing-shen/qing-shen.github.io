@@ -174,8 +174,8 @@ l.resp-tabs-list, p {
     list-style: none;
     cursor: pointer;
     float: left;
-    width: 64px;
-    height: 36px;
+    width: 128px;
+    height: 64px;
 }
 .resp-tabs-container {
     padding: 0;
