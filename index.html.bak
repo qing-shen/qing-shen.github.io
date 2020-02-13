@@ -126,8 +126,8 @@ layout: default
 </div>
 <!-- end profile -->
 
-<!--<div class="col-md-9 flexy_content" style="padding-left: 0;padding-right: 0;">-->
-<div class="col-md-9" style="padding-left: 0;padding-right: 0;">
+<div class="col-md-9 flexy_content" style="padding-left: 0;padding-right: 0;">
+<!--<div class="col-md-9" style="padding-left: 0;padding-right: 0;">-->
 <!-- verticalTab menu -->
 <div id="verticalTab">
 
@@ -144,7 +144,7 @@ layout: default
         <li data-tab-name="awards">
             <!--<span class="tite-list">profile</span>-->
             <!--<i class="fa fa-user icon_menu icon_menu_active"></i>-->
-            Awards
+            <strong> Awards </strong>
         </li>
 
         <!--<li class="tabs-portfolio hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" data-tab-name="portfolio">-->
