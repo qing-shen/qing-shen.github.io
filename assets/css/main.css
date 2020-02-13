@@ -149,11 +149,11 @@ a:hover {
     text-align: center;
     position: relative;
     z-index: 2;
-    border-radius: 100%;
-    -o-border-radius: 100%;
-    -ms-border-radius: 100%;
-    -webkit-border-radius: 100%;
-    -moz-border-radius: 100%;
+    border-radius: 50%;
+    -o-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
     line-height: 43px;
 }
 
@@ -174,8 +174,6 @@ l.resp-tabs-list, p {
     list-style: none;
     cursor: pointer;
     float: left;
-    width: 42px !important;
-    height: 42px !important;
 }
 .resp-tabs-container {
     padding: 0;
