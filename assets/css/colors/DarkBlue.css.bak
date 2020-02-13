@@ -171,6 +171,10 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     background: #3B5998;
     color: #fff;
 }
+.resp-tabs-list li:active {
+    background: #fff;
+    color: #3B5998;
+}
 #services .pack-service .service-icon i {
     border: 3px solid #3B5998;
     color: #3B5998;

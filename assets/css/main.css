@@ -267,7 +267,7 @@ h2.resp-tab-title:last-child {
 }
 .resp-vtabs li.resp-tab-active {
     border-right: none;
-    color: #fff;
+    color: #3B5998;
     position: relative;
     z-index: 1;
     padding: 17px !important;
