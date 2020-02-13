@@ -271,14 +271,14 @@ h2.resp-tab-title:last-child {
     position: relative;
     z-index: 1;
     padding: 17px !important;
-    background: #708090;
+    background: #fff;
 }
 .resp-tabs-list li:hover {
     -webkit-transition: all .6s ease-in;
     -moz-transition: all .6s ease-in;
     -o-transition: all .6s ease-in;
     transition: all .6s ease-in;
-    background: #fff;
+    background: #708090;
 }
 .resp-arrow {
     width: 0;
