@@ -136,7 +136,7 @@ layout: default
         <li data-tab-name="home">	
             <!--<span class="tite-list">profile</span>-->
             <!--<i class="fa fa-user icon_menu icon_menu_active">Home</i>-->
-            <i class="icon_menu">Home</i>
+            <i class="icon_menu  icon_menu_active">Home</i>
             <!--<p>    Home  </p>-->
         </li>
 
