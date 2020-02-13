@@ -175,7 +175,7 @@ l.resp-tabs-list, p {
     cursor: pointer;
     float: left;
     width: 88px;
-    height: 50px;
+    height: 56px;
 }
 .resp-tabs-container {
     padding: 0;
@@ -260,7 +260,7 @@ h2.resp-tab-title:last-child {
     background-color: #f4f4f4;
     float: left;
     width: 88%;
-    height: 580px;
+    height: auto;
     clear: none;
     margin-left: 13px;
 }
