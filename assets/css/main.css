@@ -278,7 +278,7 @@ h2.resp-tab-title:last-child {
     -moz-transition: all .6s ease-in;
     -o-transition: all .6s ease-in;
     transition: all .6s ease-in;
-    background: #708090;
+    background: #A9A9A9;
 }
 .resp-arrow {
     width: 0;
