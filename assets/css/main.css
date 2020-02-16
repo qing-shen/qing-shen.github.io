@@ -1019,6 +1019,11 @@ ul.about {
     padding-bottom: 15px;
 }
 
+.widget-profil #profile_links
+{
+    padding-top: 15px;
+}
+
 #profile_social a{
     width: 45px;
     height: 45px;
