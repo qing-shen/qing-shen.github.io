@@ -96,9 +96,9 @@ layout: default
         </div>
         <!-- End Profile Description -->
 
-        <div id="profile_emails">
+        <div id="profile_social">
 
-            <p> <br />  <font color="white"> Emails: <br />
+            <p>  <br /> <font color="white"> Emails: <br />
                   qing-shen@outlook.com <br />
                   q.shen@bit.edu.cn </font> </p>
 
@@ -106,15 +106,15 @@ layout: default
     	
 
         <!-- Name -->
-         <div id="profile_social">
-            <!--<p>Google Scholar Profile:  </p>-->
-            <a href="{{site.google}}"><i class="fa fa-google-plus"></i></a>
-            <a href="https://www.bit.edu.cn">Google Scholar</a>
-            <!--<a href="{{site.twitter}}"><i class="fa fa-google-plus"></i></a>
-            <a href="{{site.linkedin}}"><i class="fa fa-linkedin"></i></a>
-            <a href="{{site.dribbble}}"><i class="fa fa fa-dribbble"></i></a>
-            <a href="{{site.foursquare}}"><i class="fa fa-google"></i></a>-->
-            <!--<div class="clear"></div>-->
+         <!--<div id="profile_social">-->
+         <div id="profile_links">
+            <p style="font-size:10px">  </p>
+            <!--<a href="{{site.google}}"><i class="fa fa-google-plus"></i></a>-->
+            <a href="{{site.google}}" target="_blank"><img src="images/favicon/GoogleScholar_2.jpg" width="45" height="45" alt="" /></a>
+            <a href="https://www.researchgate.net/profile/Qing_Shen17" target="_blank"><img src="images/favicon/Researchgate.jpg" width="45" height="45" alt="" /></a>
+            &nbsp;
+            <a href="http://www.bit.edu.cn/" target="_blank"><img src="images/favicon/BIT_2.jpg" width="45" height="45" alt="" /></a>
+            <a href="https://www.sheffield.ac.uk/" target="_blank"><img src="images/favicon/UOS_2.jpg" width="45" height="45" alt="" /></a>
         </div>
         <!-- End Name -->
 
