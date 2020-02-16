@@ -1119,6 +1119,9 @@ ul.about {
     #profile_desc {
         display:none;
     }
+    #profile_links {
+        display:none;
+    }
 }
 
 @media only screen  and (max-width: 766px) {
@@ -1131,6 +1134,9 @@ ul.about {
         display: none;
     }
     #profile_desc {
+        display:none;
+    }
+    #profile_links {
         display:none;
     }
 
@@ -1153,6 +1159,9 @@ ul.about {
     #profile_social {
         display: none;
     }
+    #profile_links {
+        display:none;
+    }
 }
 
 @media only screen and (min-width : 550px) and (max-width : 991px) {
@@ -1172,6 +1181,9 @@ ul.about {
 
     #profile_social {
         display: none;
+    }
+    #profile_links {
+        display:none;
     }
     #profile_desc {
         border-bottom: 0 !important;

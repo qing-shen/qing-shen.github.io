@@ -1016,7 +1016,12 @@ ul.about {
 .widget-profil #profile_social
 {
     padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
+}
+
+.widget-profil #profile_links
+{
+    padding-top: 0px;
 }
 
 #profile_social a{
@@ -1112,6 +1117,9 @@ ul.about {
         display: none;
     }
     #profile_desc {
+        display:none;
+    }
+    #profile_links {
         display:none;
     }
 }
