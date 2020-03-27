@@ -6,7 +6,7 @@
 
 <!-- begin service -->
 <div class="clear"></div>
-<div class="row" id="services">
+<div class="row" id="Journal Papers">
 	<div class="col-md-12" style="font-size:14px">   <!-- style="font-size:20px" can be used -->
         <div class="title_content">
             <div class="text_content">Journal Papers</div>
@@ -60,7 +60,7 @@
 <div class="clear"></div>
 <!--<div class="border-list"></div>-->
 
-<div class="row">
+<div class="row"  id="Conference Papers">
 <div class="col-md-12" style="font-size:14px">
    <!-- <div class="bottom-p">-->
         <div class="title_content">
@@ -69,8 +69,8 @@
         </div>
 
 <ol>
-<li>Yechen Li, Jie Yao, <strong>Qing Shen</strong>, Wei Cui, “Dual-channel monopulse angle estimation method for weak target based on reference signal,” in <em>Proc. IEEE International Conference on Signal, Information and Data Processing (ICSIDP)</em>, Chongqing, China, Dec. 2019.</li>
-    
+<li>Hantian Wu, <strong>Qing Shen</strong>, Wei Liu, Wei Cui, “Underdetermined low-complexity wideband DOA estimation with uniform linear arrays,” in <em>Proc. IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM)</em>, Hangzhou, China, Jun. 2020.</li>
+
 <li>Yechen Li, Jie Yao, <strong>Qing Shen</strong>, Wei Cui, “Dual-channel monopulse angle estimation method for weak target based on reference signal,” in <em>Proc. IEEE International Conference on Signal, Information and Data Processing (ICSIDP)</em>, Chongqing, China, Dec. 2019.</li>
 
 <li>Yibao Liang, <strong>Qing Shen</strong>, Wei Cui, Wei Liu, “Cramer-Rao Bound for Wideband DOA Estimation with Uncorrelated Sources,” in <em>Proc. IEEE Global Conference on Signal and Information Processing (GlobalSIP)</em>, Ottawa, Canada, Nov. 2019.</li>
