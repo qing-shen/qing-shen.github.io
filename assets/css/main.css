@@ -128,7 +128,7 @@ a:focus {
 }
 a:active,
 a:hover {
-    color: #ff00ff;
+    color: #ffff00;
     outline: 0
 }
 
