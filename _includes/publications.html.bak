@@ -3,10 +3,9 @@
     <!-- .title -->
 <h1 class="h-bloc">Publications</h1>
 
-
 <!-- begin service -->
 <div class="clear"></div>
-<div class="row" id="Journal Papers">
+<div class="row" id="Journal_Papers">
 	<div class="col-md-12" style="font-size:14px">   <!-- style="font-size:20px" can be used -->
         <div class="title_content">
             <div class="text_content">Journal Papers</div>
@@ -16,7 +15,7 @@
 <ol>
 <li> Wei Cui, Shuang Wu, <strong>Qing Shen</strong>, Jing Tian, Siliang Wu, Xiang-Gen Xia, “Parameter estimation method for radar maneuvering target with arbitrary migrations,” <em>IEEE Transactions on Aerospace and Electronic Systems</em>, vol. 55, no. 5, pp. 2195-2213, Oct. 2019. </li>
 
-<li>Wei Cui, <strong>Qing Shen</strong>, Wei Liu, Siliang Wu, “Low Complexity DOA estimation for wideband off-grid sources based on re-focused compressive sensing with dynamic dictionary,” <em>IEEE Journal of Selected Topics in Signal Processing</em>, vol. 13, no. 5, pp. 918-930, Sep. 2019. </li>
+<li>Wei Cui, <strong>Qing Shen</strong>, Wei Liu, Siliang Wu, “Low complexity DOA estimation for wideband off-grid sources based on re-focused compressive sensing with dynamic dictionary,” <em>IEEE Journal of Selected Topics in Signal Processing</em>, vol. 13, no. 5, pp. 918-930, Sep. 2019. </li>
 
 <li><strong>Qing Shen</strong>, Wei Liu, Wei Cui, Siliang Wu, Piya Pal, “Simplified and enhanced multiple level nested arrays exploiting high order difference co-arrays,” <em>IEEE Transactions on Signal Processing</em>, vol. 67, no. 13, pp. 3502-3515, Jul. 2019. </li>
 
@@ -59,8 +58,7 @@
 <!-- service 2 -->
 <div class="clear"></div>
 <!--<div class="border-list"></div>-->
-
-<div class="row"  id="Conference Papers">
+<div class="row"  id="Conference_Papers">
 <div class="col-md-12" style="font-size:14px">
    <!-- <div class="bottom-p">-->
         <div class="title_content">
