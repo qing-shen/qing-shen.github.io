@@ -25,6 +25,8 @@
                         <li><span class="span-info"><i class="glyphicon glyphicon-envelope"></i> Email:</span> <font color="black">  q.shen@bit.edu.cn </font></li>
                         <!--<li><span class="span-info"><i class="glyphicon glyphicon-phone"></i> Phone:</span> +123 456 789 111</li>-->
                         <li><span class="span-info"><i class="glyphicon glyphicon-globe"></i> Website:</span> <font color="black"> https://qing-shen.github.io/ </font></li>
+                            
+                            <a href="https://qing-shen.github.io/" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Qing_Shen17" target="_blank">ResearchGate</a>
                         <!--<li><span class="span-info"><i class="glyphicon glyphicon-comment"></i> Skype:</span> brown-smith-skype</li>
                         <li><span class="span-info"><i class="glyphicon glyphicon-thumbs-up"></i> G. Drive:</span> brown-s-gm@gmail.com</li>
                         <li><span class="span-info"><i class="glyphicon glyphicon-unchecked"></i> Skydrive:</span> brown-s-sk@hotmail.com</li>-->
@@ -48,11 +50,11 @@
         </div>
 
 
-                        <a href="{{site.google}}" target="_blank"><img src="images/favicon/GoogleScholar_2.jpg" width="75" height="75" alt="" /></a>
-                        <a href="https://www.researchgate.net/profile/Qing_Shen17" target="_blank"><img src="images/favicon/Researchgate.jpg" width="75" height="75" alt="" /></a>
+                        <a href="{{site.google}}" target="_blank"><img src="images/favicon/GoogleScholar_2.jpg" width="60" height="60" alt="" /></a>
+                        <a href="https://www.researchgate.net/profile/Qing_Shen17" target="_blank"><img src="images/favicon/Researchgate.jpg" width="60" height="60" alt="" /></a>
                        &nbsp; &nbsp; &nbsp; &nbsp;
-                       <a href="http://www.bit.edu.cn/" target="_blank"><img src="images/favicon/BIT_2.jpg" width="75" height="75" alt="" /></a>
-                       <a href="https://www.sheffield.ac.uk/" target="_blank"><img src="images/favicon/UOS_2.jpg" width="75" height="75" alt="" /></a>
+                       <a href="http://www.bit.edu.cn/" target="_blank"><img src="images/favicon/BIT_2.jpg" width="60" height="60" alt="" /></a>
+                       <a href="https://www.sheffield.ac.uk/" target="_blank"><img src="images/favicon/UOS_2.jpg" width="60" height="60" alt="" /></a>
                         <div class="clear"></div>
 
                     <p> </p>
