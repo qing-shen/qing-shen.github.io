@@ -1,0 +1,160 @@
+---
+layout: default
+---
+
+<!-- .slideshow -->
+<!--<ul class="cb-slideshow" id="cb_slideshow" style="display:none">
+    <li><span>Image 01</span><div></div></li>
+    <li><span>Image 02</span><div></div></li>
+    <li><span>Image 03</span><div></div></li>
+    <li><span>Image 04</span><div></div></li>
+    <li><span>Image 05</span><div></div></li>
+    <li><span>Image 01</span><div></div></li>
+</ul>-->
+<!-- /.slideshow -->
+
+<!-- .wrapper -->
+<div class="wrapper">
+
+<!--- .Content -->
+<section class="tab-content">
+<div class="container">
+
+<div class="row">
+
+<div class="col-md-12">
+
+<div class="row">
+
+<!-- profile -->
+<div class="col-md-3 widget-profil">
+<div class="row">
+
+    <!-- Profile Image -->
+    <div class="col-lg-12 col-md-12 col-sm-3 col-xs-12 ">
+    	
+
+                <div class="image-holder one" id="pic_prof_1" style="display:block">
+                <img class="head-image circle" src="images/img/user.jpg" width="150" height="150" alt="" />
+                </div>
+
+
+    </div>
+    <!-- End Profile Image -->
+
+    <!-- Begin profile information -->
+    <div class="col-lg-12 col-md-12 col-sm-9 col-xs-12">
+        <!-- Profile info -->
+        <div id="profile_info">
+            <h1 id="name" class="transition-02"> <font color="white">  {{ site.yourname }}  </font> </h1>
+            <!--<h6 class="line"> <font color="white"> {{ site.title }} </font>  </h4>
+            <h6>  <font color="white"> {{ site.location }} </font> </h6>-->
+
+            <p> <font color="white">Associate Professor<br />
+                 School of Information and Electronics<br />
+                 Beijing Institute of Technology</font> </p>
+
+        </div>
+        <!-- End Profile info -->
+    	
+
+        <!-- Profile Description -->
+        <div id="profile_desc">
+
+            <p> <font color="white">副教授，博导<br />
+                 北京理工大学<br />
+                 信息与电子学院</font> </p>
+
+        </div>
+        <!-- End Profile Description -->
+
+        <div id="profile_social"> <!-- profile_info -->
+
+            <p>  <font color="white"> Emails: <br />
+                  qing-shen@outlook.com <br />
+                  q.shen@bit.edu.cn </font> </p>
+
+        </div>
+    	
+
+        <!-- Name -->
+         <!--<div id="profile_social">-->
+         <div id="profile_links">
+            <!--<p style="font-size:10px">  </p>-->
+            <!--<a href="{{site.google}}"><i class="fa fa-google-plus"></i></a>-->
+            <a href="{{site.google}}" target="_blank"><img src="images/favicon/GoogleScholar_2.jpg" width="45" height="45" alt="" /></a>
+            <a href="https://www.researchgate.net/profile/Qing_Shen17" target="_blank"><img src="images/favicon/Researchgate.jpg" width="45" height="45" alt="" /></a>
+            &nbsp;
+            <a href="http://www.bit.edu.cn/" target="_blank"><img src="images/favicon/BIT_2.jpg" width="45" height="45" alt="" /></a>
+            <a href="https://www.sheffield.ac.uk/" target="_blank"><img src="images/favicon/UOS_2.jpg" width="45" height="45" alt="" /></a>
+        </div>
+        <!-- End Name -->
+
+
+
+    </div>
+    <!-- End profile information -->
+
+</div>
+</div>
+<!-- end profile -->
+
+<div class="col-md-9 flexy_content" style="padding-left: 0;padding-right: 0;">
+<!--<div class="col-md-9" style="padding-left: 0;padding-right: 0;">-->
+<!-- verticalTab menu -->
+<div id="verticalTab">
+
+    <ul class="resp-tabs-list">
+        <!--<li class="tabs-profile hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" data-tab-name="home">			-->
+        <li data-tab-name="home">	
+            <!--<span class="tite-list">profile</span>-->
+            <!--<i class="fa fa-user icon_menu icon_menu_active">Home</i>-->
+            <!--<i class="icon_menu  icon_menu_active">Home</i>-->
+            <strong>    Hantian  </strong>
+        </li>
+
+        <!--<li class="tabs-profile hi-icon-wrap hi-icon-effect-5 hi-icon-effect-5a" data-tab-name="awards">-->
+        <li data-tab-name="bio">
+            <!--<span class="tite-list">profile</span>-->
+            <!--<i class="fa fa-user icon_menu icon_menu_active"></i>-->
+            <a href="https://qing-shen.github.io">Homepage</a> 
+        </li>
+
+       
+    </ul>
+    <!-- /resp-tabs-list -->
+
+
+
+<!-- resp-tabs-container -->
+<div class="resp-tabs-container">
+
+{% include /hantian.html %}
+
+{% include /home.html %}
+
+
+</div>
+<!-- End #resp-tabs-container -->
+
+</div><!-- End verticalTab -->
+
+</div><!-- End flexy_content -->
+
+
+</div><!-- End row -->
+
+</div><!-- End col-md-12 -->
+
+</div><!-- End row -->
+
+</div><!-- End container -->
+
+</section>
+<!-- End Content -->
+
+</div>
+<!-- End wrapper -->
+
+
+
