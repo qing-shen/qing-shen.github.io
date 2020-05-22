@@ -12,10 +12,13 @@
             <div class="clear"></div>
         </div>
 
-<video width="300" src="/hantianwu/Hantian_ppt.mp4" poster="/hantianwu/Poster.jpg" autoplay="autoplay" controls="controls">
+<video  src="/hantianwu/Hantian_ppt.mp4" poster="/hantianwu/Poster.jpg" autoplay="autoplay" controls="controls">
 </video>
 
-For the manuscript and the slides, please click the corresponding links.
+<p>  <font color="black">
+For the <a href="/hantianwu/SAM2020_Paper.pdf">manuscript</a> and the <a href="/hantianwu/SAM2020_Slides.pdf">slides</a>, please click the corresponding links.
+</font> </p>
+
 
 
 

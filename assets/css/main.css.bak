@@ -120,7 +120,7 @@ a {
 }
 
 a {
-    color: #0000ff;
+    color: #0087f7;
     background: transparent
 }
 a:focus {
@@ -128,6 +128,7 @@ a:focus {
 }
 a:active,
 a:hover {
+    color: #ff8b00;
     outline: 0
 }
 
