@@ -1,38 +1,29 @@
 <!-- profile -->
 <div id="profile" class="content_2">
     <!-- .title -->
-<h1 class="h-bloc">Awards</h1>
+<h1 class="h-bloc">Members</h1>
 
+<p>  <font color="black">
+I am always looking for self-motivated Ph.D and Master students who are interested in my research areas. Please drop me an email with your CV. 
+<br> Email:  q.shen@bit.edu.cn<br>     
+ cc(抄送):   qing-shen@outlook.com </p>
+</font> </p>
 
 <!-- begin service -->
 <div class="clear"></div>
 <div class="row" id="services">
 	<div class="col-md-12" style="font-size:14px">   <!-- style="font-size:20px" can be used -->
         <div class="title_content">
-            <div class="text_content">Awards</div>
+            <div class="text_content">Ph.D Students</div>
             <div class="clear"></div>
         </div>
 
-
 <ol>
-<li>Second-Class Prize of the National Award for Technological Invention, China, Jan. 2020. 
-<br>2020年1月，获国家技术发明二等奖。 </li>
-
-<li>First-Class Prize of the Science and Technology (Technological Invention) Award, Chinese Institute of Electronics, China, Dec. 2018. 
-<br>2018年12 月，获中国电子学会科学技术奖（技术发明类）一等奖。</li>
-
-<li>Excellent Ph.D. Thesis Award, Chinese Institute of Electronics, China, Dec. 2016. The most important award for all Ph.D. students in China.  
-<br>2016年12 月，获中国电子学会优秀博士学位论文奖。</li>
-
-<li>Excellent Ph.D. Thesis Award, Beijing Institute of Technology, China, Jun. 2016.
-<br>2016 年6月，获北京理工大学优秀博士学位论文奖。</li>
-
-<li>Second-Class Prize of the Ministerial Level Science and Technology Progress Award, China, Dec. 2014. 
-<br>2014年12月，获省部级科技进步二等奖。</li>
-
-<li>Second-Class Award of the Beijing College-Student Electronics Design Contest, China, 2008.</li>
+<li>梁艺宝 Yibao Liang</li>
+<li>杨子翔 Zixiang Yang</li>
+<li>张则翔 Zexiang Zhang</li>
+<li>吴函天 Hantian Wu</li>
 </ol>
-
 
      </div>
 </div><!-- End Services -->
@@ -46,23 +37,25 @@
 <div class="col-md-12" style="font-size:14px">
    <!-- <div class="bottom-p">-->
         <div class="title_content">
-            <div class="text_content">Honors</div>
+            <div class="text_content">Master Students</div>
             <div class="clear"></div>
         </div>
 
 <ol>
-<li>Five-time recipient of First-Class Scholarship for Ph.D. Students, Beijing Institute of Technology, China, 2010-2016.</li>
-
-<li>Scholarship for Overseas Study Program, China Scholarship Council, 2013-2015.</li>
-
-<li>Four-time recipient of First-Class Scholarship, Beijing Institute of Technology, China, 2005-2009.</li>
-
-<li>Four-time recipient of Excellent Student, Beijing Institute of Technology, China, 2005-2009.</li>
-
-<li>National Scholarship, Ministry of Education of the People’s Republic of China, China, 2006.</li>
+<li>刘超 Chao Liu</li>
+<li>李彦欣 Yanxin Li</li>
+<li>段越 Yue Duan</li>
+<li>黄怡琳 Yilin Huang</li>
+<li>朱春 Chun Zhu</li>
+<li>李鹏程 Pengcheng Li</li>
+<li> 吕丹扬 Danyang Lv</li>
+<li>张翔 Xiang Zhang</li>
+<li>曾胜文 Shengwen Zeng</li>
+<li>袁诗蕾 Shilei Yuan</li>
+<li>赵云鹏 Yunpeng Zhao</li>
+<li>刘妍 Yan Liu</li>
+<li>马悦 Yue Ma</li>
 </ol>
-
-
 
 </div>
 </div>
