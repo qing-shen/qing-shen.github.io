@@ -67,6 +67,7 @@
 <li>IET Communications</li>
 <li>IET Electronics Letters</li>
 <li>SCIENCE CHINA Information Sciences</li>
+<li>Frontiers of Information Technology & Electronic Engineering</li>
 <li>EURASIP Journal on Advances in Signal Processing</li>
 <li>Sensors </li>
 </ol>
@@ -103,6 +104,33 @@
 </div>
 </div>
 <!-- end service 2 -->
+
+<!-- service 3 -->
+<div class="clear"></div>
+<!--<div class="border-list"></div>-->
+
+<div class="row">
+<div class="col-md-12" style="font-size:14px">
+   <!-- <div class="bottom-p">-->
+        <div class="title_content">
+            <div class="text_content">Technical/Program/Review Committee Member</div>
+            <div class="clear"></div>
+        </div>
+
+<ol>
+<li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) </li>
+<li>IEEE International Conference on Digital Signal Processing (DSP)</li>
+<li>IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) </li>
+<li>IEEE International Symposium on Circuits and Systems (ISCAS) </li>
+<li>IEEE Workshop on Signal Processing Systems (SiPS) </li>
+<li>IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)</li>
+
+</ol>
+
+
+</div>
+</div>
+<!-- end service 3 -->
 
 <div class="clear"></div>
 </div>
